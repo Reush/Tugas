@@ -10,5 +10,13 @@ package tugas;
  * @author Daffa
  */
 public class Manusia {
+    String nama ;
+    String kelamin ;
+    double IPK ;
     
+    void cetakinfo (){
+        System.out.println("Nama :"+nama);
+        System.out.println("Kelamin :"+kelamin) ;
+        System.out.println("IPK :"+IPK );
+    }
 }
