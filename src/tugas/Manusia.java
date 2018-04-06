@@ -17,6 +17,6 @@ public class Manusia {
     void cetakinfo (){
         System.out.println("Nama :"+nama);
         System.out.println("Kelamin :"+kelamin) ;
-        System.out.println("IPK :"+IPK );
+        System.out.println("IPK :"+IPK ); 
     }
 }

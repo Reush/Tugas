@@ -10,5 +10,7 @@ package tugas;
  * @author Daffa
  */
 public class ManusiaAksi {
-    
+    public static void main(String[]args) {
+        Manusia Reyhan = new Manusia ();
+    }
 }
