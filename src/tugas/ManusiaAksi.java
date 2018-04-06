@@ -16,5 +16,7 @@ public class ManusiaAksi {
         Reyhan.nama="Reyhan Giffary";
         Reyhan.kelamin="laki laki";
         Reyhan.IPK=3.5;
+        
+        Reyhan.cetakInfo();
     }
 }
