@@ -12,5 +12,9 @@ package tugas;
 public class ManusiaAksi {
     public static void main(String[]args) {
         Manusia Reyhan = new Manusia ();
+        
+        Reyhan.nama="Reyhan Giffary";
+        Reyhan.kelamin="laki laki";
+        Reyhan.IPK=3.5;
     }
 }
